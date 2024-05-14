@@ -1,0 +1,17 @@
+C:\Users\Eduardo\source\repos\TaskBox\TaskBox\bin\Debug\net8.0-windows\TaskBox.exe
+C:\Users\Eduardo\source\repos\TaskBox\TaskBox\bin\Debug\net8.0-windows\TaskBox.deps.json
+C:\Users\Eduardo\source\repos\TaskBox\TaskBox\bin\Debug\net8.0-windows\TaskBox.runtimeconfig.json
+C:\Users\Eduardo\source\repos\TaskBox\TaskBox\bin\Debug\net8.0-windows\TaskBox.dll
+C:\Users\Eduardo\source\repos\TaskBox\TaskBox\bin\Debug\net8.0-windows\TaskBox.pdb
+C:\Users\Eduardo\source\repos\TaskBox\TaskBox\obj\Debug\net8.0-windows\TaskBox.form1.resources
+C:\Users\Eduardo\source\repos\TaskBox\TaskBox\obj\Debug\net8.0-windows\TaskBox.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\TaskBox\TaskBox\obj\Debug\net8.0-windows\TaskBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\source\repos\TaskBox\TaskBox\obj\Debug\net8.0-windows\TaskBox.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\TaskBox\TaskBox\obj\Debug\net8.0-windows\TaskBox.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\TaskBox\TaskBox\obj\Debug\net8.0-windows\TaskBox.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\TaskBox\TaskBox\obj\Debug\net8.0-windows\TaskBox.dll
+C:\Users\Eduardo\source\repos\TaskBox\TaskBox\obj\Debug\net8.0-windows\refint\TaskBox.dll
+C:\Users\Eduardo\source\repos\TaskBox\TaskBox\obj\Debug\net8.0-windows\TaskBox.pdb
+C:\Users\Eduardo\source\repos\TaskBox\TaskBox\obj\Debug\net8.0-windows\TaskBox.genruntimeconfig.cache
+C:\Users\Eduardo\source\repos\TaskBox\TaskBox\obj\Debug\net8.0-windows\ref\TaskBox.dll
+C:\Users\Eduardo\source\repos\TaskBox\TaskBox\obj\Debug\net8.0-windows\TaskBox.sourcelink.json
