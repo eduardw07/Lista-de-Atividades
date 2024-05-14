@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskBox", "TaskBox\TaskBox.csproj", "{56AAFDC7-60F4-4585-92DD-C7781FED8279}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56AAFDC7-60F4-4585-92DD-C7781FED8279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56AAFDC7-60F4-4585-92DD-C7781FED8279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56AAFDC7-60F4-4585-92DD-C7781FED8279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56AAFDC7-60F4-4585-92DD-C7781FED8279}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70CAAAE6-24DB-4D30-8E30-BF8F7995D3E7}
+	EndGlobalSection
+EndGlobal
