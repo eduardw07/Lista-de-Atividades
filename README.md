@@ -24,4 +24,6 @@ Se o usuario marcar a opção sim, a caixinha sera preenchida e sua porcentagem 
 
 ![image](https://github.com/eduardw07/Lista-de-Atividades/assets/45314550/e453f537-8994-441f-a19a-b27eb634033a)
 
-Mas caso o usuario marque não, a caixa irá ser desmarcada e o progresso não evoluirá.
+Mas caso o usuario marque não, a caixa irá ser desmarcada e o progresso não evoluirá. O usuario pode também excluir a task já concluida para ter um maior controle sobre suas atividades, bastando apenas marcar a caixinha e apertar no botão Excluir.
+
+
